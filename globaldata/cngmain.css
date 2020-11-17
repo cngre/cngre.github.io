@@ -28,7 +28,14 @@ a {
 .text {
  color:white; 
  text-decoration:none;
-  text-align:center;
-   align:center;
+ text-align:center;
+ align:center;
+   font-family:"zapfino";
+   
+   
+}
+@font-face {
+    font-family: "zapfino";
+    src: url(https://codenationgroup.github.io/fonts/zapfino.otf) format("OpenType");
    
 }
