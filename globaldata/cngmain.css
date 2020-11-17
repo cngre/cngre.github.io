@@ -30,8 +30,17 @@ a {
  text-decoration:none;
  text-align:center;
  align:center;
-   font-family:"zapfino";
+   font-family:Courier New;
+
    
+   
+}
+.title {
+    color:white; 
+ text-decoration:none;
+ text-align:center;
+ align:center;
+   font-family: "zapfino";
    
 }
 @font-face {
