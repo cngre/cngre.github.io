@@ -51,9 +51,7 @@ a {
     src: url(https://codenationgroup.github.io/fonts/zapfino.otf) format("OpenType");
    
 }
-//---------------------------------------------------------------------------------------------------------------------------------------------------------------------------//                                                                                 
-                                                                                   //Top Nav CSS//                                   
-//---------------------------------------------------------------------------------------------------------------------------------------------------------------------------//
+
 
 body {
   margin: 0;
@@ -75,11 +73,11 @@ body {
 }
 
 .topnav a:hover {
-  background-color: #ddd;
+  background-color: transparent;
   color: black;
 }
 
 .topnav a.active {
-  background-color: #4CAF50;
+  background-color: transparent;
   color: white;
 }
